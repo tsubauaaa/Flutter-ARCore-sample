@@ -1,1 +1,1 @@
-# flutter_arcore_apps
+# Flutter ARCore sample app
